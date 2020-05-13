@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+
+#item {
+    display: flexbox;
+    border-radius: 15px;
+    margin: 20px;
+  }
+
+.display-4   {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 3.5rem;
+    font-weight: 900;
+    line-height: 1.2;
+    color: coral;
+  }
+
+#subtitle {
+    display: flex;  
+    justify-content: space-around;
+    color: cornsilk;
+    margin: 20px;
+    padding: 20px;
+  }
+  
+.lead {
+    color: cornsilk;
+  }
+ 
+#credits {
+      margin: 20px;
+      display: flex;
+      justify-content: space-around;
+  }
+  
